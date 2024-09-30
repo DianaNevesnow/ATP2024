@@ -1,0 +1,1 @@
+## Primeiro dei a opção de escolher para escolher, para a pessoa adivinhar era por if statemnts para dixer que está acimo ou abaixo do valor, e para o computador era só po-lo a dividir o valor maximo e minimo ate chegar ao numero
