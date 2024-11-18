@@ -1,1 +1,1 @@
-fkn;dagafv/gj 'wlefz
+O objetivo desta aplicação é resolver uma série de problemas variados usando técnicas de programação, com foco em manipulação de listas, strings e estruturas de dados. As tarefas incluem encontrar elementos exclusivos em listas, filtrar palavras em textos, calcular índices e produtos, implementar funções para contagem e busca de substrings, e construir funcionalidades para gestão de redes sociais, como listar posts, contar autores, e manipular conteúdos com base em critérios definidos.
