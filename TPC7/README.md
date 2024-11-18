@@ -1,1 +1,1 @@
-sljbseljkv;hbgvhjb;gv
+O objetivo desta aplicação é processar dados meteorológicos de um arquivo CSV para análise e armazenamento. Ela permite ler os dados, gerar gráficos das temperaturas mínimas, máximas e precipitação para visualização, e salvar os dados processados em formato JSON para facilitar o armazenamento e reutilização.
