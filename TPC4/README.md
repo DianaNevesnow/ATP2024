@@ -1,1 +1,1 @@
-skdhhhhhhhb;gulfgjhjjhfgbfjkgjk
+O objetivo deste tpc é criar uma aplicação que da-te um menu com opções, atraves desta o utilizador poderá criar uma lista com o numero de elementos ao seu gosto, ler a lista, fazer a somatoria do seus elementos , a media deles, ver qual é o maior e menor elementos, certificar se os elementos da lista estão ordenados, por ordem crescente ou decrescente e procurar um elemento da lista  a sua escollha
