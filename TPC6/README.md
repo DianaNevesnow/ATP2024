@@ -1,1 +1,1 @@
-mnbjhvgkj
+Este exercício propõe o desenvolvimento de uma aplicação colocar no monitor os dados de uma turma composta por alunos, cada um identificado por um nome, ID e notas (TPC, projeto, teste). A aplicação apresenta um menu interativo que permita criar uma turma, insere novos alunos, lista todos os alunos, consulta informações de um aluno por ID, guarda a turma em ficheiro e carrega uma turma de um ficheiro. Após cada operação, o menu é exibido novamente até que o utilizador opta por sair. Como fim, a aplicação será usada para criar e manipular uma turma com 5 alunos.
